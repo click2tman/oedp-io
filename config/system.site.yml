@@ -1,0 +1,14 @@
+uuid: 87c58351-596b-45bb-a15c-d9c75af2a60b
+name: oedp-io
+mail: tamba@tambalamin.me
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
